@@ -1,6 +1,6 @@
 <?php
 
-class Model
+class Product  // Will have a table named "product" usually
 {
     public function getData() : array
     {
